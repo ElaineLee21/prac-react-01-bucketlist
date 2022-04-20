@@ -1,1 +1,1 @@
-# 연습 프로젝트 01 Bucket List
+연습 프로젝트 01 Bucket List
